@@ -7,7 +7,7 @@ export class SimpleCalc {
 
     add(argOne, argTwo)
     {
-        return argOne + argTwo 
+        return argOne + argTwo
     }
     subtract(argOne, argTwo)
     {
@@ -15,10 +15,10 @@ export class SimpleCalc {
     }
     multiply(argOne, argTwo)
     {
-        return argOne * argTwo 
+        return argOne * argTwo
     }
     divide(argOne, argTwo)
     {
-        return argOne / argTwo 
+        return argOne / argTwo
     }
 }
